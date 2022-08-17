@@ -1,3 +1,6 @@
+# Author: Manish Sharma
+# Date created: 17-08-2022
+
 # This is a single line comment in python and there is no multi-line comment in it. 
 # So for multiple lines you have to use hastag or pound symbole "#" in every line to use it.
 
