@@ -1,4 +1,4 @@
-# Python Beginner to Advance Tutorial
+# Python for Absolute Beginner to Advance Tutorial
 - Here you will learn all about python3 in one repository.
 - This Tutorial is for those, whom are new to programming with no knowledge of programming at all but personals willing to learn Python can also learn from this repository.
 - Just practice on [Hacker rank](https://www.hackerrank.com), [leetcode](https://leetcode.com) to grasp a full knowledge of a topic that you are learning.
