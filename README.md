@@ -12,8 +12,6 @@
 - A PC or Laptop with internet connection.
 - [Python](https://www.python.org/downloads/) Installed. If not installed yet then download it according to your system configuration.
 - [Jupyter Notebook](https://jupyter.org/install) to practice without saving files every time. _Optional_
-- We will think of that you have Installed *Jupyter Notebook* on your system. _If not it's okay you can skip this installation_
-> Yes, I also going to tell how can we run files on our system not just in Jupyter notebook.
 
 
 Credit: [Manish Sharma](https://twitter.com/ManishBadgotra)
