@@ -16,4 +16,4 @@ name = "John"
 print(x) # prints 5 that is assigned to variable x.
 print(name) # prints John that is assigned to variable name.
 
-
+# variable type is decided by what value is assigned to its variable.
